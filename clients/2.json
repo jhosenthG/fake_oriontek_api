@@ -14,6 +14,30 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10211"
+    },
+    {
+      "street": "Av. Circunvalación 34",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51001"
+    },
+    {
+      "street": "Calle Principal 67",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22001"
+    },
+    {
+      "street": "Blvd. Playa 89",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23001"
+    },
+    {
+      "street": "Av. Central 12",
+      "city": "Nagua",
+      "country": "RD",
+      "postalCode": "33000"
     }
   ],
   "revenue": 450000.0,

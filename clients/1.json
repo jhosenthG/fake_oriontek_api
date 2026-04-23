@@ -14,6 +14,24 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10101"
+    },
+    {
+      "street": "Calle Duarte 45",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51000"
+    },
+    {
+      "street": "Av. Libertad 78",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22000"
+    },
+    {
+      "street": "Blvd. Turístico 12",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23000"
     }
   ],
   "revenue": 500000.0,

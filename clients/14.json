@@ -14,6 +14,30 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10119"
+    },
+    {
+      "street": "Calle Mella 120",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51014"
+    },
+    {
+      "street": "Av. Francisco Caamaño 180",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22013"
+    },
+    {
+      "street": "Blvd. Macao 250",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23015"
+    },
+    {
+      "street": "Calle Principal 320",
+      "city": "Nagua",
+      "country": "RD",
+      "postalCode": "33009"
     }
   ],
   "revenue": 180000.0,

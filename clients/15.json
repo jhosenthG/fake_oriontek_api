@@ -4,9 +4,47 @@
   "image_url": "https://www.humano.com.do/App_Themes/Humano/images/logo.png",
   "industry_type": "Seguros",
   "account_status": "Active",
-  "contact_info": { "email": "atencion@humano.com.do", "phone": "+1 809-476-3535" },
+  "contact_info": {
+    "email": "atencion@humano.com.do",
+    "phone": "+1 809-476-3535"
+  },
   "addresses": [
-    { "street": "Av. Lope de Vega 36", "city": "Santo Domingo", "country": "RD", "postalCode": "10119" }
+    {
+      "street": "Av. Lope de Vega 36",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10119"
+    },
+    {
+      "street": "Calle Independencia 88",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51015"
+    },
+    {
+      "street": "Av. España 144",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22014"
+    },
+    {
+      "street": "Blvd. Costero 200",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23016"
+    },
+    {
+      "street": "Calle Comercio 300",
+      "city": "Nagua",
+      "country": "RD",
+      "postalCode": "33010"
+    },
+    {
+      "street": "Av. Principal 400",
+      "city": "Santo Domingo Este",
+      "country": "RD",
+      "postalCode": "11507"
+    }
   ],
   "revenue": 420000.0,
   "orders_history": [1301, 1302]

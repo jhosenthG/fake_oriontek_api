@@ -14,6 +14,18 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10110"
+    },
+    {
+      "street": "Calle Restauración 88",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51007"
+    },
+    {
+      "street": "Av. Francisco Caamaño 144",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22006"
     }
   ],
   "revenue": 380000.0,

@@ -14,6 +14,36 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10119"
+    },
+    {
+      "street": "Calle Restauración 55",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51003"
+    },
+    {
+      "street": "Av. Francisco Caamaño 88",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22003"
+    },
+    {
+      "street": "Blvd. Bávaro 144",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23003"
+    },
+    {
+      "street": "Calle Duarte 200",
+      "city": "Nagua",
+      "country": "RD",
+      "postalCode": "33002"
+    },
+    {
+      "street": "Av. Charles de Gaulle 300",
+      "city": "Santo Domingo Este",
+      "country": "RD",
+      "postalCode": "11501"
     }
   ],
   "revenue": 150000.0,

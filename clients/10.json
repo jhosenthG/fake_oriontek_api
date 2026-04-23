@@ -14,6 +14,42 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10113"
+    },
+    {
+      "street": "Calle Independencia 22",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51010"
+    },
+    {
+      "street": "Av. España 33",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22009"
+    },
+    {
+      "street": "Blvd. Costero 44",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23010"
+    },
+    {
+      "street": "Calle Comercio 55",
+      "city": "Nagua",
+      "country": "RD",
+      "postalCode": "33006"
+    },
+    {
+      "street": "Av. Principal 66",
+      "city": "Santo Domingo Este",
+      "country": "RD",
+      "postalCode": "11504"
+    },
+    {
+      "street": "Calle Restauración 77",
+      "city": "Higüey",
+      "country": "RD",
+      "postalCode": "23011"
     }
   ],
   "revenue": 340000.0,

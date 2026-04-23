@@ -16,6 +16,24 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10101"
+        },
+        {
+          "street": "Calle Duarte 45",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51000"
+        },
+        {
+          "street": "Av. Libertad 78",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22000"
+        },
+        {
+          "street": "Blvd. Turístico 12",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23000"
         }
       ],
       "revenue": 500000.0,
@@ -37,6 +55,30 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10211"
+        },
+        {
+          "street": "Av. Circunvalación 34",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51001"
+        },
+        {
+          "street": "Calle Principal 67",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22001"
+        },
+        {
+          "street": "Blvd. Playa 89",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23001"
+        },
+        {
+          "street": "Av. Central 12",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33000"
         }
       ],
       "revenue": 450000.0,
@@ -58,6 +100,36 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10122"
+        },
+        {
+          "street": "Calle Independencia 123",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51002"
+        },
+        {
+          "street": "Av. España 456",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22002"
+        },
+        {
+          "street": "Blvd. Costero 789",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23002"
+        },
+        {
+          "street": "Calle Comercio 101",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33001"
+        },
+        {
+          "street": "Av. Principal 202",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11500"
         }
       ],
       "revenue": 300000.0,
@@ -79,6 +151,36 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10119"
+        },
+        {
+          "street": "Calle Restauración 55",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51003"
+        },
+        {
+          "street": "Av. Francisco Caamaño 88",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22003"
+        },
+        {
+          "street": "Blvd. Bávaro 144",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23003"
+        },
+        {
+          "street": "Calle Duarte 200",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33002"
+        },
+        {
+          "street": "Av. Charles de Gaulle 300",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11501"
         }
       ],
       "revenue": 150000.0,
@@ -100,6 +202,48 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10114"
+        },
+        {
+          "street": "Calle Santiago 77",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51004"
+        },
+        {
+          "street": "Av. Francisco Caamaño 99",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22004"
+        },
+        {
+          "street": "Blvd. El Cortecito 150",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23004"
+        },
+        {
+          "street": "Calle Principal 250",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33003"
+        },
+        {
+          "street": "Av. San Vicente 350",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11502"
+        },
+        {
+          "street": "Calle Restauración 450",
+          "city": "Higüey",
+          "country": "RD",
+          "postalCode": "23005"
+        },
+        {
+          "street": "Av. Circunvalación 550",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51005"
         }
       ],
       "revenue": 800000.0,
@@ -121,6 +265,24 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10101"
+        },
+        {
+          "street": "Calle Mella 100",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51006"
+        },
+        {
+          "street": "Av. Francisco Caamaño 200",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22005"
+        },
+        {
+          "street": "Blvd. Uvero Alto 300",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23006"
         }
       ],
       "revenue": 950000.0,
@@ -142,6 +304,18 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10110"
+        },
+        {
+          "street": "Calle Restauración 88",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51007"
+        },
+        {
+          "street": "Av. Francisco Caamaño 144",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22006"
         }
       ],
       "revenue": 380000.0,
@@ -163,6 +337,30 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10140"
+        },
+        {
+          "street": "Calle Mella 120",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51008"
+        },
+        {
+          "street": "Av. Francisco Caamaño 180",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22007"
+        },
+        {
+          "street": "Blvd. Macao 250",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23007"
+        },
+        {
+          "street": "Calle Principal 320",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33004"
         }
       ],
       "revenue": 480000.0,
@@ -184,6 +382,42 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10113"
+        },
+        {
+          "street": "Calle Santiago 55",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51009"
+        },
+        {
+          "street": "Av. Francisco Caamaño 77",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22008"
+        },
+        {
+          "street": "Blvd. Bávaro 99",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23008"
+        },
+        {
+          "street": "Calle Principal 111",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33005"
+        },
+        {
+          "street": "Av. San Vicente 133",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11503"
+        },
+        {
+          "street": "Calle Restauración 155",
+          "city": "Higüey",
+          "country": "RD",
+          "postalCode": "23009"
         }
       ],
       "revenue": 210000.0,
@@ -205,6 +439,42 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10113"
+        },
+        {
+          "street": "Calle Independencia 22",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51010"
+        },
+        {
+          "street": "Av. España 33",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22009"
+        },
+        {
+          "street": "Blvd. Costero 44",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23010"
+        },
+        {
+          "street": "Calle Comercio 55",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33006"
+        },
+        {
+          "street": "Av. Principal 66",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11504"
+        },
+        {
+          "street": "Calle Restauración 77",
+          "city": "Higüey",
+          "country": "RD",
+          "postalCode": "23011"
         }
       ],
       "revenue": 340000.0,
@@ -226,6 +496,24 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10113"
+        },
+        {
+          "street": "Calle Mella 88",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51011"
+        },
+        {
+          "street": "Av. Francisco Caamaño 144",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22010"
+        },
+        {
+          "street": "Blvd. Bávaro 200",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23012"
         }
       ],
       "revenue": 290000.0,
@@ -247,6 +535,36 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10113"
+        },
+        {
+          "street": "Calle Independencia 123",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51012"
+        },
+        {
+          "street": "Av. España 456",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22011"
+        },
+        {
+          "street": "Blvd. Costero 789",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23013"
+        },
+        {
+          "street": "Calle Comercio 101",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33007"
+        },
+        {
+          "street": "Av. Principal 202",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11505"
         }
       ],
       "revenue": 600000.0,
@@ -268,6 +586,36 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10125"
+        },
+        {
+          "street": "Calle Santiago 77",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51013"
+        },
+        {
+          "street": "Av. Francisco Caamaño 99",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22012"
+        },
+        {
+          "street": "Blvd. El Cortecito 150",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23014"
+        },
+        {
+          "street": "Calle Principal 250",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33008"
+        },
+        {
+          "street": "Av. San Vicente 350",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11506"
         }
       ],
       "revenue": 95000.0,
@@ -289,6 +637,30 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10119"
+        },
+        {
+          "street": "Calle Mella 120",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51014"
+        },
+        {
+          "street": "Av. Francisco Caamaño 180",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22013"
+        },
+        {
+          "street": "Blvd. Macao 250",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23015"
+        },
+        {
+          "street": "Calle Principal 320",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33009"
         }
       ],
       "revenue": 180000.0,
@@ -310,6 +682,36 @@
           "city": "Santo Domingo",
           "country": "RD",
           "postalCode": "10119"
+        },
+        {
+          "street": "Calle Independencia 88",
+          "city": "Santiago",
+          "country": "RD",
+          "postalCode": "51015"
+        },
+        {
+          "street": "Av. España 144",
+          "city": "La Romana",
+          "country": "RD",
+          "postalCode": "22014"
+        },
+        {
+          "street": "Blvd. Costero 200",
+          "city": "Punta Cana",
+          "country": "RD",
+          "postalCode": "23016"
+        },
+        {
+          "street": "Calle Comercio 300",
+          "city": "Nagua",
+          "country": "RD",
+          "postalCode": "33010"
+        },
+        {
+          "street": "Av. Principal 400",
+          "city": "Santo Domingo Este",
+          "country": "RD",
+          "postalCode": "11507"
         }
       ],
       "revenue": 420000.0,

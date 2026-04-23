@@ -14,6 +14,24 @@
       "city": "Santo Domingo",
       "country": "RD",
       "postalCode": "10113"
+    },
+    {
+      "street": "Calle Mella 88",
+      "city": "Santiago",
+      "country": "RD",
+      "postalCode": "51011"
+    },
+    {
+      "street": "Av. Francisco Caamaño 144",
+      "city": "La Romana",
+      "country": "RD",
+      "postalCode": "22010"
+    },
+    {
+      "street": "Blvd. Bávaro 200",
+      "city": "Punta Cana",
+      "country": "RD",
+      "postalCode": "23012"
     }
   ],
   "revenue": 290000.0,

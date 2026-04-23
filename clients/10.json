@@ -1,0 +1,21 @@
+{
+  "id": "10",
+  "name": "Supermercados Bravo",
+  "image_url": "https://www.superbravo.com.do/wp-content/themes/bravo/img/logo-bravo.png",
+  "industry_type": "Retail",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "bravo@bravo.com.do",
+    "phone": "+1 809-540-5444"
+  },
+  "addresses": [
+    {
+      "street": "Av. Winston Churchill",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10113"
+    }
+  ],
+  "revenue": 340000.0,
+  "orders_history": [901, 902]
+}

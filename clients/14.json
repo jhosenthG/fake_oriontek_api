@@ -1,0 +1,21 @@
+{
+  "id": "14",
+  "name": "Banco Santa Cruz",
+  "image_url": "https://www.bsc.com.do/images/logo.png",
+  "industry_type": "Banca",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "info@bsc.com.do",
+    "phone": "+1 809-726-2222"
+  },
+  "addresses": [
+    {
+      "street": "Av. Lope de Vega",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10119"
+    }
+  ],
+  "revenue": 180000.0,
+  "orders_history": [1201]
+}

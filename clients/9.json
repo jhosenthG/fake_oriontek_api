@@ -1,0 +1,18 @@
+{
+  "id": "9",
+  "name": "Seguros Universal",
+  "image_url": "https://www.universal.com.do/App_Themes/Universal/images/logo-universal.png",
+  "industry_type": "Seguros",
+  "account_status": "Active",
+  "contact_info": { "email": "info@universal.com.do", "phone": "+1 809-544-7100" },
+  "addresses": [
+    {
+      "street": "Av. Winston Churchill",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10113"
+    }
+  ],
+  "revenue": 210000.0,
+  "orders_history": [801]
+}

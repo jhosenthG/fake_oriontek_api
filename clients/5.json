@@ -1,0 +1,21 @@
+{
+  "id": "5",
+  "name": "Altice Dominicana",
+  "image_url": "https://www.altice.com.do/sites/default/files/logo-altice.png",
+  "industry_type": "Telecomunicaciones",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "soporte@altice.com.do",
+    "phone": "+1 809-859-6000"
+  },
+  "addresses": [
+    {
+      "street": "Av. Nuñez de Cáceres",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10114"
+    }
+  ],
+  "revenue": 800000.0,
+  "orders_history": [401, 402]
+}

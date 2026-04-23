@@ -1,0 +1,21 @@
+{
+  "id": "12",
+  "name": "La Sirena",
+  "image_url": "https://lasirena.do/media/logo/stores/1/logo-sirena.png",
+  "industry_type": "Retail",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "contacto@sirena.do",
+    "phone": "+1 809-472-4444"
+  },
+  "addresses": [
+    {
+      "street": "Av. Winston Churchill",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10113"
+    }
+  ],
+  "revenue": 600000.0,
+  "orders_history": [1101, 1102, 1103, 1104]
+}

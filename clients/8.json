@@ -1,0 +1,21 @@
+{
+  "id": "8",
+  "name": "Banco BHD",
+  "image_url": "https://www.bhd.com.do/content/images/logo-bhd.png",
+  "industry_type": "Banca",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "contacto@bhd.com.do",
+    "phone": "+1 809-243-3243"
+  },
+  "addresses": [
+    {
+      "street": "Av. 27 de Febrero",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10140"
+    }
+  ],
+  "revenue": 480000.0,
+  "orders_history": [701, 702, 703]
+}

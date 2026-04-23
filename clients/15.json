@@ -1,0 +1,13 @@
+{
+  "id": "15",
+  "name": "Humano Seguros",
+  "image_url": "https://www.humano.com.do/App_Themes/Humano/images/logo.png",
+  "industry_type": "Seguros",
+  "account_status": "Active",
+  "contact_info": { "email": "atencion@humano.com.do", "phone": "+1 809-476-3535" },
+  "addresses": [
+    { "street": "Av. Lope de Vega 36", "city": "Santo Domingo", "country": "RD", "postalCode": "10119" }
+  ],
+  "revenue": 420000.0,
+  "orders_history": [1301, 1302]
+}

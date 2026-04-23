@@ -1,0 +1,21 @@
+{
+  "id": "1",
+  "name": "Banco Popular Dominicano",
+  "image_url": "https://prensagrupopopular.com/wp-content/uploads/2019/04/Logo-Popular-Horizontal-Azul.jpg",
+  "industry_type": "Banca",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "contacto@popularenlinea.com",
+    "phone": "+1 809-544-5500"
+  },
+  "addresses": [
+    {
+      "street": "Av. John F. Kennedy 20",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10101"
+    }
+  ],
+  "revenue": 500000.0,
+  "orders_history": [101, 102]
+}

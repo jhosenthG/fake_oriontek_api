@@ -1,0 +1,21 @@
+{
+  "id": "6",
+  "name": "Claro Dominicana",
+  "image_url": "https://www.claro.com.do/portal/do/recursos/img/logo-claro.svg",
+  "industry_type": "Telecomunicaciones",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "cliente@claro.com.do",
+    "phone": "+1 809-220-1111"
+  },
+  "addresses": [
+    {
+      "street": "Av. John F. Kennedy",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10101"
+    }
+  ],
+  "revenue": 950000.0,
+  "orders_history": [501]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "4",
+  "name": "Seguros Reservas",
+  "image_url": "https://www.segurosreservas.com/PublishingImages/Logos/logo-seguros-reservas.png",
+  "industry_type": "Seguros",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "contacto@segurosreservas.com",
+    "phone": "+1 809-960-7347"
+  },
+  "addresses": [
+    {
+      "street": "Av. Lope de Vega 21",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10119"
+    }
+  ],
+  "revenue": 150000.0,
+  "orders_history": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2",
+  "name": "Banreservas",
+  "image_url": "https://www.banreservas.com/App_Themes/Banreservas/images/logo.png",
+  "industry_type": "Banca",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "servicio.cliente@banreservas.com",
+    "phone": "+1 809-960-2121"
+  },
+  "addresses": [
+    {
+      "street": "Calle Isabel La Católica 201",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10211"
+    }
+  ],
+  "revenue": 450000.0,
+  "orders_history": [201]
+}

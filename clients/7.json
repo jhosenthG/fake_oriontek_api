@@ -1,0 +1,21 @@
+{
+  "id": "7",
+  "name": "Jumbo",
+  "image_url": "https://jumbo.com.do/media/logo/stores/1/logo-jumbo.png",
+  "industry_type": "Retail",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "servicioalcliente@ccn.com.do",
+    "phone": "+1 809-565-9939"
+  },
+  "addresses": [
+    {
+      "street": "Av. Luperón",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10110"
+    }
+  ],
+  "revenue": 380000.0,
+  "orders_history": [601, 602]
+}

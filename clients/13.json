@@ -1,0 +1,21 @@
+{
+  "id": "13",
+  "name": "Seguros SURA RD",
+  "image_url": "https://www.segurossura.com.do/wp-content/uploads/2019/07/logo-sura.png",
+  "industry_type": "Seguros",
+  "account_status": "Active",
+  "contact_info": {
+    "email": "contacto@sura.com.do",
+    "phone": "+1 809-227-7872"
+  },
+  "addresses": [
+    {
+      "street": "Calle Max Henríquez Ureña",
+      "city": "Santo Domingo",
+      "country": "RD",
+      "postalCode": "10125"
+    }
+  ],
+  "revenue": 95000.0,
+  "orders_history": []
+}

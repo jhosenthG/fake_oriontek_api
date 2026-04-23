@@ -1,0 +1,319 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Banco Popular Dominicano",
+      "image_url": "https://prensagrupopopular.com/wp-content/uploads/2019/04/Logo-Popular-Horizontal-Azul.jpg",
+      "industry_type": "Banca",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "contacto@popularenlinea.com",
+        "phone": "+1 809-544-5500"
+      },
+      "addresses": [
+        {
+          "street": "Av. John F. Kennedy 20",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10101"
+        }
+      ],
+      "revenue": 500000.0,
+      "orders_history": [101, 102]
+    },
+    {
+      "id": "2",
+      "name": "Banreservas",
+      "image_url": "https://www.banreservas.com/App_Themes/Banreservas/images/logo.png",
+      "industry_type": "Banca",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "servicio.cliente@banreservas.com",
+        "phone": "+1 809-960-2121"
+      },
+      "addresses": [
+        {
+          "street": "Calle Isabel La Católica 201",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10211"
+        }
+      ],
+      "revenue": 450000.0,
+      "orders_history": [201]
+    },
+    {
+      "id": "3",
+      "name": "Supermercados Nacional",
+      "image_url": "https://supermercadosnacional.com/media/logo/stores/1/logo-nacional.png",
+      "industry_type": "Retail",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "info@ccn.com.do",
+        "phone": "+1 809-563-2222"
+      },
+      "addresses": [
+        {
+          "street": "Av. 27 de Febrero",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10122"
+        }
+      ],
+      "revenue": 300000.0,
+      "orders_history": [301, 302, 303]
+    },
+    {
+      "id": "4",
+      "name": "Seguros Reservas",
+      "image_url": "https://www.segurosreservas.com/PublishingImages/Logos/logo-seguros-reservas.png",
+      "industry_type": "Seguros",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "contacto@segurosreservas.com",
+        "phone": "+1 809-960-7347"
+      },
+      "addresses": [
+        {
+          "street": "Av. Lope de Vega 21",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10119"
+        }
+      ],
+      "revenue": 150000.0,
+      "orders_history": []
+    },
+    {
+      "id": "5",
+      "name": "Altice Dominicana",
+      "image_url": "https://www.altice.com.do/sites/default/files/logo-altice.png",
+      "industry_type": "Telecomunicaciones",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "soporte@altice.com.do",
+        "phone": "+1 809-859-6000"
+      },
+      "addresses": [
+        {
+          "street": "Av. Nuñez de Cáceres",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10114"
+        }
+      ],
+      "revenue": 800000.0,
+      "orders_history": [401, 402]
+    },
+    {
+      "id": "6",
+      "name": "Claro Dominicana",
+      "image_url": "https://www.claro.com.do/portal/do/recursos/img/logo-claro.svg",
+      "industry_type": "Telecomunicaciones",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "cliente@claro.com.do",
+        "phone": "+1 809-220-1111"
+      },
+      "addresses": [
+        {
+          "street": "Av. John F. Kennedy",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10101"
+        }
+      ],
+      "revenue": 950000.0,
+      "orders_history": [501]
+    },
+    {
+      "id": "7",
+      "name": "Jumbo",
+      "image_url": "https://jumbo.com.do/media/logo/stores/1/logo-jumbo.png",
+      "industry_type": "Retail",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "servicioalcliente@ccn.com.do",
+        "phone": "+1 809-565-9939"
+      },
+      "addresses": [
+        {
+          "street": "Av. Luperón",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10110"
+        }
+      ],
+      "revenue": 380000.0,
+      "orders_history": [601, 602]
+    },
+    {
+      "id": "8",
+      "name": "Banco BHD",
+      "image_url": "https://www.bhd.com.do/content/images/logo-bhd.png",
+      "industry_type": "Banca",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "contacto@bhd.com.do",
+        "phone": "+1 809-243-3243"
+      },
+      "addresses": [
+        {
+          "street": "Av. 27 de Febrero",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10140"
+        }
+      ],
+      "revenue": 480000.0,
+      "orders_history": [701, 702, 703]
+    },
+    {
+      "id": "9",
+      "name": "Seguros Universal",
+      "image_url": "https://www.universal.com.do/App_Themes/Universal/images/logo-universal.png",
+      "industry_type": "Seguros",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "info@universal.com.do",
+        "phone": "+1 809-544-7100"
+      },
+      "addresses": [
+        {
+          "street": "Av. Winston Churchill",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10113"
+        }
+      ],
+      "revenue": 210000.0,
+      "orders_history": [801]
+    },
+    {
+      "id": "10",
+      "name": "Supermercados Bravo",
+      "image_url": "https://www.superbravo.com.do/wp-content/themes/bravo/img/logo-bravo.png",
+      "industry_type": "Retail",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "bravo@bravo.com.do",
+        "phone": "+1 809-540-5444"
+      },
+      "addresses": [
+        {
+          "street": "Av. Winston Churchill",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10113"
+        }
+      ],
+      "revenue": 340000.0,
+      "orders_history": [901, 902]
+    },
+    {
+      "id": "11",
+      "name": "Scotiabank RD",
+      "image_url": "https://do.scotiabank.com/content/dam/scotiabank/images/logo/scotiabank-logo.svg",
+      "industry_type": "Banca",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "servicio@scotiabank.com.do",
+        "phone": "+1 809-567-7268"
+      },
+      "addresses": [
+        {
+          "street": "Av. Winston Churchill",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10113"
+        }
+      ],
+      "revenue": 290000.0,
+      "orders_history": [1001]
+    },
+    {
+      "id": "12",
+      "name": "La Sirena",
+      "image_url": "https://lasirena.do/media/logo/stores/1/logo-sirena.png",
+      "industry_type": "Retail",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "contacto@sirena.do",
+        "phone": "+1 809-472-4444"
+      },
+      "addresses": [
+        {
+          "street": "Av. Winston Churchill",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10113"
+        }
+      ],
+      "revenue": 600000.0,
+      "orders_history": [1101, 1102, 1103, 1104]
+    },
+    {
+      "id": "13",
+      "name": "Seguros SURA RD",
+      "image_url": "https://www.segurossura.com.do/wp-content/uploads/2019/07/logo-sura.png",
+      "industry_type": "Seguros",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "contacto@sura.com.do",
+        "phone": "+1 809-227-7872"
+      },
+      "addresses": [
+        {
+          "street": "Calle Max Henríquez Ureña",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10125"
+        }
+      ],
+      "revenue": 95000.0,
+      "orders_history": []
+    },
+    {
+      "id": "14",
+      "name": "Banco Santa Cruz",
+      "image_url": "https://www.bsc.com.do/images/logo.png",
+      "industry_type": "Banca",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "info@bsc.com.do",
+        "phone": "+1 809-726-2222"
+      },
+      "addresses": [
+        {
+          "street": "Av. Lope de Vega",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10119"
+        }
+      ],
+      "revenue": 180000.0,
+      "orders_history": [1201]
+    },
+    {
+      "id": "15",
+      "name": "Humano Seguros",
+      "image_url": "https://www.humano.com.do/App_Themes/Humano/images/logo.png",
+      "industry_type": "Seguros",
+      "account_status": "Active",
+      "contact_info": {
+        "email": "atencion@humano.com.do",
+        "phone": "+1 809-476-3535"
+      },
+      "addresses": [
+        {
+          "street": "Av. Lope de Vega 36",
+          "city": "Santo Domingo",
+          "country": "RD",
+          "postalCode": "10119"
+        }
+      ],
+      "revenue": 420000.0,
+      "orders_history": [1301, 1302]
+    }
+  ]
+}

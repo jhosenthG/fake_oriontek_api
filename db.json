@@ -45,7 +45,7 @@
     {
       "id": "3",
       "name": "Supermercados Nacional",
-      "image_url": "https://supermercadosnacional.com/media/logo/stores/1/logo-nacional.png",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThS5i4Wh8xUVE9YziaXi56RtIPBa_14TsQ0A&s",
       "industry_type": "Retail",
       "account_status": "Active",
       "contact_info": {
@@ -66,7 +66,7 @@
     {
       "id": "4",
       "name": "Seguros Reservas",
-      "image_url": "https://www.segurosreservas.com/PublishingImages/Logos/logo-seguros-reservas.png",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFyaua_tILluFLAYHBkXuaEXmbzeGUvbEEg&s",
       "industry_type": "Seguros",
       "account_status": "Active",
       "contact_info": {
@@ -87,7 +87,7 @@
     {
       "id": "5",
       "name": "Altice Dominicana",
-      "image_url": "https://www.altice.com.do/sites/default/files/logo-altice.png",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGKZHeg0zPfewj7j50rnjnuADGNp37ML2_g&s",
       "industry_type": "Telecomunicaciones",
       "account_status": "Active",
       "contact_info": {
@@ -108,7 +108,7 @@
     {
       "id": "6",
       "name": "Claro Dominicana",
-      "image_url": "https://www.claro.com.do/portal/do/recursos/img/logo-claro.svg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0KRSaNF1A1hX8gd8D33leoKVCUZC8lEBmA&s",
       "industry_type": "Telecomunicaciones",
       "account_status": "Active",
       "contact_info": {
@@ -129,7 +129,7 @@
     {
       "id": "7",
       "name": "Jumbo",
-      "image_url": "https://jumbo.com.do/media/logo/stores/1/logo-jumbo.png",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Jumbo_Red_Square.png/revision/latest/scale-to-width-down/250?cb=20200503124339",
       "industry_type": "Retail",
       "account_status": "Active",
       "contact_info": {
@@ -171,7 +171,7 @@
     {
       "id": "9",
       "name": "Seguros Universal",
-      "image_url": "https://www.universal.com.do/App_Themes/Universal/images/logo-universal.png",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrDTX2UWf9hhw5q1UWmhInqqpz6kQKtf0l2Q&s",
       "industry_type": "Seguros",
       "account_status": "Active",
       "contact_info": {
